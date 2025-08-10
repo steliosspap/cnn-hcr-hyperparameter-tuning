@@ -106,6 +106,8 @@ Input(28,28,1) → Conv2D(k) → Conv2D(2k, same) → MaxPool → Conv2D(4k) →
 
 The Extended Essay (Grade A) provides the theoretical foundation and initial experimental results that this codebase reproduces and extends.
 
+See `1752022727161.pdf` for the finalized research paper
+
 ## Methodology
 
 See `docs/methodology_notes.md` for detailed information about:
@@ -144,9 +146,9 @@ MIT License - see [LICENSE](LICENSE) file for details.
 
 If you use this code in your research, please cite:
 ```
-@software{spapadopoulos2024cnnhcr,
+@software{spapageorgiou2025cnnhcr,
   title={CNN Hyperparameter Tuning for Handwritten Character Recognition},
-  author={Stelios Spapadopoulos},
+  author={Stylianos Papageorigou},
   year={2024},
   url={https://github.com/steliosspap/cnn-hcr-hyperparameter-tuning}
 }
