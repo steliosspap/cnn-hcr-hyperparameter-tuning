@@ -1,0 +1,16 @@
+# OS / editors
+.DS_Store
+*~
+*.swp
+*.swo
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+.env
+.ipynb_checkpoints/
+
+# Results
+results/**
+!results/.gitkeep
